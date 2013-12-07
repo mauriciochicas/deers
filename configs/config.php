@@ -1,0 +1,5 @@
+<?php
+
+$configFiles = array(
+		
+	);
